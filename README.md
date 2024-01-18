@@ -15,7 +15,7 @@ Los campos son:
 9. **mision_hs:** Duración de la misión en horas
 10. **eva_mision_hs:** Duración de las actividades extravehiculares (EVA) en horas
 
-Creamos 4 graficos relacionando informacion de los distintos astronautas.
+Creamos 4 gráficos relacionando información de los distintos astronautas.
 Utilizamos JavaScript.
 
 dataviz_1:
@@ -31,8 +31,8 @@ dataviz_2:
     Ádemas, creemos adecuado sumar todas las horas de misión para cada país en particular, para así, obtener el total de cada país.
 
 dataviz_3:
-    Decidimos usar la marca de línea para agilizar la visualización de como fue variando la cantidad de horas de misión de EEUU a tráves de los años. Facilita la comparación con los años anteriores y posteriores a cualquier año de misión que nos interese. El uso de colores no nos pareció específicamente necesario, ya que no se incluyen otros países en el gráfico.
-    Ádemas, creemos adecuado sumar todas las horas de misión por año, de los astronautas de EEUU.
+    Decidimos usar la marca de línea para agilizar la visualización de como fue variando la cantidad de horas de misión de EEUU a través de los años. Facilita la comparación con los años anteriores y posteriores a cualquier año de misión que nos interese. El uso de colores no nos pareció específicamente necesario, ya que no se incluyen otros países en el gráfico.
+    Ademas, creemos adecuado sumar todas las horas de misión por año, de los astronautas de EEUU.
 
 dataviz_4:
     Utilizamos la marca de área porque similarmente a la marca de línea, agiliza la acción de comparar si fue aumentando o disminuyendo la cantidad de horas que los astronautas rusos pasaron fuera de la nave a tráves de los años. Elegimos el color rojo porque lo relacionamos con Rusia y su identidad, su historia y sus bases.

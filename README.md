@@ -15,6 +15,8 @@ Los campos son:
 9. **mision_hs:** Duración de la misión en horas
 10. **eva_mision_hs:** Duración de las actividades extravehiculares (EVA) en horas
 
+Creamos 4 graficos relacionando informacion de los distintos astronautas.
+Utilizamos JavaScript
 
 dataviz_1:
     Agrupamos los datos sobre la ocupación, edad_mision y mision_hs para responder las siguientes preguntas:
